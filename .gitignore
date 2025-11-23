@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+
+# Virtual environment
+.venv/
+env/
+
+# IDE settings
+.idea/
+
+# OS
+.DS_Store
+
+copilot.*
+.github/copilot.*
+*.copilot
